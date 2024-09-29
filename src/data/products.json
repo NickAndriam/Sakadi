@@ -1,0 +1,362 @@
+[
+  {
+    "uid": "001",
+    "name": "T-Shirt graphique",
+    "size": "M",
+    "price": 20000,
+    "number": 100,
+    "stock": 50,
+    "image": "https://example.com/images/tshirt-graphique.jpg",
+    "category": "T-Shirt",
+    "type": "T-Shirt graphique",
+    "colors": [
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "rgb": "255,0,0"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00",
+        "rgb": "0,255,0"
+      },
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "rgb": "0,0,255"
+      }
+    ]
+  },
+  {
+    "uid": "002",
+    "name": "T-Shirt uni",
+    "size": "L",
+    "price": 25000,
+    "number": 150,
+    "stock": 30,
+    "image": "https://example.com/images/tshirt-uni.jpg",
+    "category": "T-Shirt",
+    "type": "T-Shirt uni",
+    "colors": [
+      {
+        "name": "Yellow",
+        "hex": "#FFFF00",
+        "rgb": "255,255,0"
+      },
+      {
+        "name": "Purple",
+        "hex": "#800080",
+        "rgb": "128,0,128"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "rgb": "255,0,0"
+      }
+    ]
+  },
+  {
+    "uid": "003",
+    "name": "T-Shirt col V",
+    "size": "S",
+    "price": 18000,
+    "number": 80,
+    "stock": 20,
+    "image": "https://example.com/images/tshirt-colv.jpg",
+    "category": "T-Shirt",
+    "type": "T-Shirt col V",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "rgb": "0,0,255"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00",
+        "rgb": "0,255,0"
+      },
+      {
+        "name": "Purple",
+        "hex": "#800080",
+        "rgb": "128,0,128"
+      }
+    ]
+  },
+  {
+    "uid": "004",
+    "name": "Sweat à capuche",
+    "size": "L",
+    "price": 45000,
+    "number": 70,
+    "stock": 25,
+    "image": "https://example.com/images/sweat-capuche.jpg",
+    "category": "Sweat",
+    "type": "Sweat à capuche",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "rgb": "0,0,0"
+      },
+      {
+        "name": "Grey",
+        "hex": "#808080",
+        "rgb": "128,128,128"
+      }
+    ]
+  },
+  {
+    "uid": "005",
+    "name": "Sweat sans manches",
+    "size": "M",
+    "price": 40000,
+    "number": 50,
+    "stock": 15,
+    "image": "https://example.com/images/sweat-sans-manches.jpg",
+    "category": "Sweat",
+    "type": "Sweat sans manches",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "rgb": "255,255,255"
+      },
+      {
+        "name": "Navy",
+        "hex": "#000080",
+        "rgb": "0,0,128"
+      }
+    ]
+  },
+  {
+    "uid": "006",
+    "name": "Sweat zippé",
+    "size": "XL",
+    "price": 47000,
+    "number": 65,
+    "stock": 30,
+    "image": "https://example.com/images/sweat-zippe.jpg",
+    "category": "Sweat",
+    "type": "Sweat zippé",
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#333333",
+        "rgb": "51,51,51"
+      },
+      {
+        "name": "Olive",
+        "hex": "#808000",
+        "rgb": "128,128,0"
+      }
+    ]
+  },
+  {
+    "uid": "007",
+    "name": "Short sportif",
+    "size": "L",
+    "price": 15000,
+    "number": 120,
+    "stock": 60,
+    "image": "https://example.com/images/short-sportif.jpg",
+    "category": "Shorts",
+    "type": "Short sportif",
+    "colors": [
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "rgb": "255,0,0"
+      },
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "rgb": "0,0,255"
+      }
+    ]
+  },
+  {
+    "uid": "008",
+    "name": "Short de bain",
+    "size": "M",
+    "price": 12000,
+    "number": 90,
+    "stock": 40,
+    "image": "https://example.com/images/short-de-bain.jpg",
+    "category": "Shorts",
+    "type": "Short de bain",
+    "colors": [
+      {
+        "name": "Turquoise",
+        "hex": "#40E0D0",
+        "rgb": "64,224,208"
+      },
+      {
+        "name": "Coral",
+        "hex": "#FF7F50",
+        "rgb": "255,127,80"
+      }
+    ]
+  },
+  {
+    "uid": "009",
+    "name": "Short en lin",
+    "size": "S",
+    "price": 14000,
+    "number": 80,
+    "stock": 25,
+    "image": "https://example.com/images/short-en-lin.jpg",
+    "category": "Shorts",
+    "type": "Short en lin",
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC",
+        "rgb": "245,245,220"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#ADD8E6",
+        "rgb": "173,216,230"
+      }
+    ]
+  },
+  {
+    "uid": "010",
+    "name": "Pantalons cargo",
+    "size": "XL",
+    "price": 60000,
+    "number": 90,
+    "stock": 40,
+    "image": "https://example.com/images/Pantalons-cargo.jpg",
+    "category": "Pantalons",
+    "type": "Pantalons cargo",
+    "colors": [
+      {
+        "name": "Khaki",
+        "hex": "#F0E68C",
+        "rgb": "240,230,140"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00",
+        "rgb": "0,255,0"
+      }
+    ]
+  },
+  {
+    "uid": "011",
+    "name": "Pantalons en jean",
+    "size": "M",
+    "price": 55000,
+    "number": 80,
+    "stock": 30,
+    "image": "https://example.com/images/Pantalons-jean.jpg",
+    "category": "Pantalons",
+    "type": "Pantalons en jean",
+    "colors": [
+      {
+        "name": "Denim",
+        "hex": "#0000FF",
+        "rgb": "0,0,255"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#ADD8E6",
+        "rgb": "173,216,230"
+      }
+    ]
+  },
+  {
+    "uid": "012",
+    "name": "Pantalons chino",
+    "size": "L",
+    "price": 53000,
+    "number": 70,
+    "stock": 20,
+    "image": "https://example.com/images/Pantalons-chino.jpg",
+    "category": "Pantalons",
+    "type": "Pantalons chino",
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC",
+        "rgb": "245,245,220"
+      },
+      {
+        "name": "Navy",
+        "hex": "#000080",
+        "rgb": "0,0,128"
+      }
+    ]
+  },
+  {
+    "uid": "013",
+    "name": "Débardeur classique",
+    "size": "M",
+    "price": 12000,
+    "number": 110,
+    "stock": 75,
+    "image": "https://example.com/images/debardeur-classique.jpg",
+    "category": "Débardeur",
+    "type": "Débardeur classique",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "rgb": "255,255,255"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "rgb": "0,0,0"
+      }
+    ]
+  },
+  {
+    "uid": "014",
+    "name": "Débardeur sport",
+    "size": "L",
+    "price": 15000,
+    "number": 100,
+    "stock": 50,
+    "image": "https://example.com/images/debardeur-sport.jpg",
+    "category": "Débardeur",
+    "type": "Débardeur sport",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "rgb": "0,0,255"
+      },
+      {
+        "name": "Grey",
+        "hex": "#808080",
+        "rgb": "128,128,128"
+      }
+    ]
+  },
+  {
+    "uid": "015",
+    "name": "Débardeur à rayures",
+    "size": "S",
+    "price": 14000,
+    "number": 90,
+    "stock": 60,
+    "image": "https://example.com/images/debardeur-rayures.jpg",
+    "category": "Débardeur",
+    "type": "Débardeur à rayures",
+    "colors": [
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "rgb": "255,0,0"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "rgb": "255,255,255"
+      }
+    ]
+  }
+]

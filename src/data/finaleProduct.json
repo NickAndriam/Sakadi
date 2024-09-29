@@ -1,0 +1,141 @@
+[
+  {
+    "category": "Sweats",
+    "types": [
+      {
+        "name": "SAMBOS / DEB / MC CARGO / OVZ2",
+        "price": 135000,
+        "stock": 3,
+        "size": "M"
+      },
+      {
+        "name": "SW MC SERIG / OVZ2 SERG",
+        "price": 150000,
+        "stock": 2,
+        "size": "M"
+      },
+      {
+        "name": "SAMBOS DEC / DEB CAPU / DEB",
+        "price": 150000,
+        "stock": 2,
+        "size": "M"
+      },
+      {
+        "name": "SAMBOS SERIG / MC CAPU",
+        "price": 150000,
+        "stock": 2,
+        "size": "M"
+      },
+      {
+        "name": "ML CAPU FERMER",
+        "price": 160000,
+        "stock": 1,
+        "size": "M"
+      },
+      {
+        "name": "DEC ML CAPU / MC CAPU FERMER",
+        "price": 175000,
+        "stock": 1,
+        "size": "M"
+      },
+      {
+        "name": "ML CAPU ",
+        "price": 135000,
+        "stock": 2,
+        "size": "M"
+      }
+    ]
+  },
+  {
+    "category": "T-Shirts",
+    "types": [
+      {
+        "name": "BASIC",
+        "price": 100000,
+        "stock": 16,
+        "size": "M"
+      },
+      {
+        "name": "OVERSIZE / BIG / DECOUPE / XL / DEBARSEUR",
+        "price": 125000,
+        "stock": 3,
+        "size": "M"
+      },
+      {
+        "name": "BASIC SERIG / FERMETURE / OVZ2 / BIG SERIG",
+        "price": 150000,
+        "stock": 2,
+        "size": "M"
+      },
+      {
+        "name": "OVZ2 SERIG",
+        "price": 175000,
+        "stock": 1,
+        "size": "M"
+      }
+    ]
+  },
+  {
+    "category": "Shorts",
+    "types": [
+      {
+        "name": "LAVA / PLAGE",
+        "price": 100000,
+        "stock": 52,
+        "size": "M"
+      },
+      {
+        "name": "CARGO / PLAGE SERIG / BAND / XL / DESTROY",
+        "price": 125000,
+        "stock": 15,
+        "size": "M"
+      },
+      {
+        "name": "CARGO SERIG / BAND SERIG / DESTROY SERIG",
+        "price": 150000,
+        "stock": 2,
+        "size": "M"
+      }
+    ]
+  },
+  {
+    "category": "Pantalons",
+    "types": [
+      {
+        "name": "BASIC",
+        "price": 135000,
+        "stock": 3,
+        "size": "M"
+      },
+      {
+        "name": "NIKE / DECOUPE / CARGO / TAILLE / BASIC SERIG / BAND",
+        "price": 150000,
+        "stock": 2,
+        "size": "M"
+      },
+      {
+        "name": "SERIG NIKE / DEC / CARGO",
+        "price": 175000,
+        "stock": 4,
+        "size": "M"
+      }
+    ]
+  },
+  {
+    "category": "Débardeur",
+    "types": [
+      {
+        "name": "BASIC",
+        "price": 90000,
+        "stock": 45,
+        "size": "M"
+      },
+      {
+        "name": "DEC",
+        "price": 100000,
+        "stock": 1,
+        "size": "M"
+      }
+    ]
+  }
+]

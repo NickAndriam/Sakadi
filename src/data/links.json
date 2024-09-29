@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Dashboard",
+    "href": "/dashboard",
+    "icon": "RiDashboardHorizontalLine"
+  },
+  {
+    "title": "Produits",
+    "href": "/products",
+    "icon": "LuPackageOpen"
+  },
+  {
+    "title": "Caisse",
+    "href": "/cashier",
+    "icon": "PiCashRegisterLight"
+  },
+  {
+    "title": "Vente et Commande",
+    "href": "/sold",
+    "icon": "GiTakeMyMoney"
+  },
+  {
+    "title": "Paramètres",
+    "href": "/settings",
+    "icon": "MdOutlineSettings"
+  }
+]

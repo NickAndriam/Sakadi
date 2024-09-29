@@ -1,0 +1,105 @@
+{
+  "category": "Vêtements",
+  "items": [
+    {
+      "name": "Sweat",
+      "type": "Haut",
+      "icon": "/svg/sweats.svg",
+      "color": "#2A77F6",
+      "subcategories": [
+        {
+          "name": "Sweat à capuche",
+          "description": "Sweat avec une capuche."
+        },
+        {
+          "name": "Sweat col rond",
+          "description": "Sweat avec un col rond."
+        },
+        {
+          "name": "Sweat zippé",
+          "description": "Sweat avec une fermeture éclair à l'avant."
+        }
+      ]
+    },
+    {
+      "name": "T-Shirt",
+      "type": "Haut",
+      "icon": "/svg/t-shirts.svg",
+      "color": "#4BB18F",
+      "subcategories": [
+        {
+          "name": "T-Shirt graphique",
+          "description": "T-shirt avec des motifs ou des designs imprimés."
+        },
+        {
+          "name": "T-Shirt uni",
+          "description": "T-shirt simple, de couleur unie."
+        },
+        {
+          "name": "T-Shirt col V",
+          "description": "T-shirt avec un col en V."
+        }
+      ]
+    },
+    {
+      "name": "Shorts",
+      "type": "Bas",
+      "icon": "/svg/shorts.svg",
+      "color": "#8F5293",
+      "subcategories": [
+        {
+          "name": "Short cargo",
+          "description": "Short avec de grandes poches latérales."
+        },
+        {
+          "name": "Short de sport",
+          "description": "Short léger pour le sport ou les entraînements."
+        },
+        {
+          "name": "Short en jean",
+          "description": "Short fabriqué en tissu denim."
+        }
+      ]
+    },
+    {
+      "name": "Pantalons",
+      "type": "Bas",
+      "icon": "/svg/pants.svg",
+      "color": "#2A77F6",
+      "subcategories": [
+        {
+          "name": "Jeans",
+          "description": "Pantalons en denim."
+        },
+        {
+          "name": "Chinos",
+          "description": "Pantalons en coton décontractés."
+        },
+        {
+          "name": "Joggers",
+          "description": "Pantalons confortables avec des poignets élastiques."
+        }
+      ]
+    },
+    {
+      "name": "Débardeur",
+      "type": "Haut",
+      "icon": "/svg/tanktops.svg",
+      "color": "#2A77F6",
+      "subcategories": [
+        {
+          "name": "Débardeur classique",
+          "description": "Haut sans manches décontracté."
+        },
+        {
+          "name": "Débardeur dos nageur",
+          "description": "Haut sans manches avec un dos en forme de 'T'."
+        },
+        {
+          "name": "Débardeur sportif",
+          "description": "Haut sans manches conçu pour le sport."
+        }
+      ]
+    }
+  ]
+}
